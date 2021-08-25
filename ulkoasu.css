@@ -1,0 +1,31 @@
+body{
+  background-color: darkslateblue ;
+  color:purple; 
+  text-align: center;
+}
+
+div{
+  background-color: pink;
+  text-align: center;
+  margin: auto;
+  
+  
+}
+
+ul{
+  list-style: none;
+}
+
+#retu{
+  background-color: darkslateblue; 
+  width: 70%;
+  text-align: left;
+}
+
+#perekele{
+  width: 70%;
+  
+}
+#lisaaNappi{
+  width: 100%;
+}
