@@ -28,4 +28,23 @@ ul{
 }
 #lisaaNappi{
   width: 100%;
+  background-color: black;
+  color: white;
+  
+}
+#retunico{
+  text-align: left;
+  background-color: darkslateblue; 
+}
+#nicoonretu{
+  text-align: left;
+  background-color: darkslateblue; 
+}
+#nooaonretumyos{
+  text-align: left;
+  background-color: darkslateblue; 
+}
+#kehvelijoona{
+  text-align: left;
+  background-color: darkslateblue; 
 }
